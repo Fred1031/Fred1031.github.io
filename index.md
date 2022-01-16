@@ -4,7 +4,7 @@
 
 **Email**: liujiesong@ruc.edu.cn
 
-Jiesong Liu is an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). He joined the [Key  Laboratory of Data Engineering and Knowledge Engineer (MOE)](http://deke.ruc.edu.cn/) in 2021. His research interests include Big Data Management, Database System, Algorithm Design & Analysis and Machine Learning. 
+Jiesong Liu is an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). He joined the [Key  Laboratory of Data Engineering and Knowledge Engineer (MOE)](http://deke.ruc.edu.cn/) in 2021. His research interests include Big Data Management, Database System, Algorithm Design & Analysis, heterogeneous computing and Machine Learning. 
 
 ## Education Background
 
