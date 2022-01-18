@@ -14,4 +14,5 @@ Jan. 2022 ~ Now: Exchanged to Faculty of Science, University of British Columbia
 ## Publication
 
 **[TPDS'22 (submitted)]** ``Exploring Query Processing on CPU-GPU Integrated Edge Device", **Jiesong Liu**, Feng Zhang, Hourun Li, Dalin Wang, Weitao Wan, Xiaokun Fang, Jidong Zhai, Xiaoyong Du.
+
 **[VLDB’22 (submitted)]** “G-Learned Index: Enabling Efficient Learned index on GPU”, **Jiesong Liu**, Feng Zhang, Lv Lu, Xiaoyong Du, and Dong Deng.
