@@ -6,7 +6,7 @@ Undergraduate at Renmin University of China
 
 **Email**: liujiesong@ruc.edu.cn
 
-My name is Jiesong Liu. I am an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I joined the [Key  Laboratory of Data Engineering and Knowledge Engineer (MOE)](http://deke.ruc.edu.cn/) in 2021 and am advised by [Feng Zhang](https://fengzhangcs.github.io). My research interests include Big Data Management, Database System, Algorithm Design & Analysis, heterogeneous computing and Machine Learning. My current research focuses on building high-performance, energy-efficient, and high-fidelity programming framework for the emerging machine learning and deep learning.
+My name is Jiesong Liu. I am an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I joined the [Key  Laboratory of Data Engineering and Knowledge Engineer (MOE)](http://deke.ruc.edu.cn/) in 2021 under the supervision of [Feng Zhang](https://fengzhangcs.github.io). My research interests include Big Data Management, Database System, Algorithm Design & Analysis, heterogeneous computing and Machine Learning. My current research focuses on building high-performance, energy-efficient, and high-fidelity programming framework for the emerging machine learning and deep learning.
 
 ## Education Background
 
