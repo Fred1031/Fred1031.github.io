@@ -1,5 +1,7 @@
 # Jiesong Liu    刘洁松
 
+Undergraduate at Renmin University of China
+
 **Address**: 427, Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
 
 **Email**: liujiesong@ruc.edu.cn
@@ -9,7 +11,8 @@ My name is Jiesong Liu. I am an undergraduate in [School of Information](http://
 ## Education Background
 
 Sep. 2019 ~ Now: B.S. in School of Information, Renmin University of China.
-Jan. 2022 ~ Apr.: Exchanged to Faculty of Science, University of British Columbia.
+
+Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Columbia.
 
 ## Publication
 
@@ -20,6 +23,10 @@ Jan. 2022 ~ Apr.: Exchanged to Faculty of Science, University of British Columbi
 
 **[VLDB’23]** ``Approximating Probabilistic Group Steiner Trees in Graphs”, Shuang Yang, Yahui Sun, **Jiesong Liu**, Xiaokui Xiao, Ronghua Li, Zhewei Wei.
 
-**[TPDS'22]** ``Exploring Query Processing on CPU-GPU Integrated Edge Device", **Jiesong Liu**, Feng Zhang, Hourun Li, Dalin Wang, Weitao Wan, Xiaokun Fang, Jidong Zhai, Xiaoyong Du.
+**[TPDS'22]** ``Exploring Query Processing on CPU-GPU Integrated Edge Device"
+
+**Jiesong Liu**, Feng Zhang, Hourun Li, Dalin Wang, Weitao Wan, Xiaokun Fang, Jidong Zhai, Xiaoyong Du.
+IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022
+[Paper]()
 
 **[NeurIPS’22]** ``TREC: Transient Redundancy Elimination-based Convolution”, Jiawei Guan, Feng Zhang, **Jiesong Liu**, Hsing-Hsuan Sung, Ruofan Wu, Xiaoyong Du, Xipeng Shen
