@@ -15,7 +15,7 @@ Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Co
 
 ## Publications
 
-**[ASPLOS’23 (Revision)]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
+**[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen;  
 28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](https://drive.google.com/file/d/174miAhV_62UmofaJlRiI1n8vZ37cuCb9/view?usp=sharing)\]
 
