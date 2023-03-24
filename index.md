@@ -17,7 +17,7 @@ Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Co
 
 **[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen;  
-28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](https://drive.google.com/file/d/174miAhV_62UmofaJlRiI1n8vZ37cuCb9/view?usp=sharing)\]
+28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](http://fred1031.github.io/files/ASPLOS2023.pdf)\]
 
 **[WWW’23 (submitted)]** ``G-Learned Index: Enabling Efficient Learned index on GPU”;  
 **Jiesong Liu**, Feng Zhang, Lv Lu, Xiaoyong Du, Guoliang Li and Dong Deng.
