@@ -9,12 +9,14 @@ My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University,
 ## Education Background
 
 Sep. 2019 ~ June 2023: B.S. in School of Information, Renmin University of China.  
+
 Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Columbia.
-Aug. 2023 ~ Now: Ph.D. in Computer Science at North Carolina State University
+
+Aug. 2023 ~ Now: Ph.D. in Computer Science at North Carolina State University.
 
 ## Publications
 
-**[TC’24]**``Enabling Efficient Deep Learning on MCU with Transient Redundancy Elimination”; Jiesong Liu, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen; 
+**[TC’24]**``Enabling Efficient Deep Learning on MCU with Transient Redundancy Elimination”; **Jiesong Liu**, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen; 
 IEEE Transactions on Computer Systems (TC), 2024.
 
 **[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
