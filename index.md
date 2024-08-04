@@ -14,7 +14,7 @@ Aug. 2023 ~ Now: Ph.D. in Computer Science at North Carolina State University
 
 ## Publications
 
-**[TC’24 ]**``Enabling Efficient Deep Learning on MCU with Transient Redundancy Elimination”; Jiesong Liu, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen; 
+**[TC’24]**``Enabling Efficient Deep Learning on MCU with Transient Redundancy Elimination”; Jiesong Liu, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen; 
 IEEE Transactions on Computer Systems (TC), 2024.
 
 **[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
