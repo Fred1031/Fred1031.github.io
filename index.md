@@ -1,25 +1,27 @@
 # Jiesong Liu    刘洁松
 
-Undergraduate at Renmin University of China
+PhD student at North Carolina State University
 
-**Address**: 427, Information Building, No. 59 Zhongguancun Street, Haidian District Beijing, 100872, P.R. China.
+**Email**: jliu93@ncsu.edu
 
-**Email**: liujiesong@ruc.edu.cn
-
-My name is Jiesong Liu. I am an undergraduate in [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I joined the [Key  Laboratory of Data Engineering and Knowledge Engineer (MOE)](http://deke.ruc.edu.cn/) in 2021 under the supervision of [Feng Zhang](https://fengzhangcs.github.io). My research interests include Big Data Management, Database System, Algorithm Design & Analysis, heterogeneous computing and Machine Learning. My current research focuses on building high-performance, energy-efficient, and high-fidelity programming framework for the emerging machine learning and deep learning. [CV](http://fred1031.github.io/files/CV_Jiesong_Liu.pdf)
+My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html). My research interests include AI optimizations. [CV](http://fred1031.github.io/files/Jiesong_Liu_CV_240803.pdf)
 
 ## Education Background
 
-Sep. 2019 ~ Now: B.S. in School of Information, Renmin University of China.  
+Sep. 2019 ~ June 2023: B.S. in School of Information, Renmin University of China.  
 Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Columbia.
+Aug. 2023 ~ Now: Ph.D. in Computer Science at North Carolina State University
 
 ## Publications
+
+**[TC’24 ]**``Enabling Efficient Deep Learning on MCU with Transient Redundancy Elimination”; Jiesong Liu, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen; 
+IEEE Transactions on Computer Systems (TC), 2024.
 
 **[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen;  
 28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](http://fred1031.github.io/files/ASPLOS2023.pdf)\]
 
-**[WWW’23 (submitted)]** ``G-Learned Index: Enabling Efficient Learned index on GPU”;  
+**[TPDS’24]** ``G-Learned Index: Enabling Efficient Learned index on GPU”;  
 **Jiesong Liu**, Feng Zhang, Lv Lu, Xiaoyong Du, Guoliang Li and Dong Deng.
 
 **[VLDB’23]** ``Approximating Probabilistic Group Steiner Trees in Graphs”;  
