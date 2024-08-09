@@ -4,7 +4,7 @@ PhD student at North Carolina State University
 
 **Email**: jliu93@ncsu.edu
 
-My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html). My research interests include AI optimizations. [CV](http://fred1031.github.io/files/Jiesong_Liu_CV_240803.pdf)
+My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html). My research interests include AI optimizations. [CV](http://fred1031.github.io/files/Jiesong_Liu_CV_240809.pdf)
 
 ## Education Background
 
