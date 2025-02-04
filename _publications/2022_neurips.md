@@ -1,5 +1,5 @@
 ---
-title: "TREC: Transient Redundancy Elimination-based Convolution"
+title: "[NeurIPS'22] TREC: Transient Redundancy Elimination-based Convolution"
 authors: "Jiawei Guan, Feng Zhang, Jiesong Liu, Hsing-Hsuan Sung, Ruofan Wu, Xiaoyong Du, Xipeng Shen"
 conference: "NeurIPS’22"
 year: 2022
