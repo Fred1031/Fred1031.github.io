@@ -66,10 +66,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
 
-    {% if entry.authors %}
-      <p><strong>Authors:</strong> {{ entry.authors | join: ", " }}</p>
-    {% elsif entry.author %}
-      <p><strong>Author:</strong> {{ entry.author }}</p>
+    {% if post.authors %}
+      <p><strong>Authors:</strong> {{ post.authors | join: ", " }}</p>
+    {% elsif post.author %}
+      <p><strong>Author:</strong> {{ post.author }}</p>
     {% endif %}
 
 
