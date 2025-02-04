@@ -1,8 +1,10 @@
 ---
 title: "[ASPLOS’25] Generalized Reuse Patterns: Unlocking the Potential of Reuse for DNN Accelerations on Microcontrollers"  
+author: Jiesong Liu, Bin Ren, Xipeng Shen
 collection: publications
 category: conferences
 permalink: /publication/asplos_2025
+date: 2025-01-01
 excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
 venue: 'The 30th ACM International Conference on Architecture Support for Programming Languages and Operating Systems (ASPLOS), 2025.'
 slidesurl: 'http://fred1031.github.io/files/ASPLOS2025_slides.pdf'
