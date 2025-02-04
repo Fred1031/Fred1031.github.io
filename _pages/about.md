@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html). My research interests are in AI optimizations.
 
-Email Address: jliu93@ncsu.edu
+Email Address: [jliu93@ncsu.edu](mailto:jliu93@ncsu.edu)
 
 
 
