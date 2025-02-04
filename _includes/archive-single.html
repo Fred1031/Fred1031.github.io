@@ -34,10 +34,20 @@
       {% endif %}
     </h2>
 
-    {% if post.authors %}
-      <p><strong></strong> {{ post.authors | join: ", " }}</p>
+  {% if post.authors %}
+      {% for author in post.authors %}
+        {% if author == "Jiesong Liu" %}
+          <strong>{{ author }}</strong>{% unless forloop.last %}, {% endunless %}
+        {% else %}
+          {{ author }}{% unless forloop.last %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
     {% elsif post.author %}
-      <p><strong>Author:</strong> {{ post.author }}</p>
+      {% if post.author == "Jiesong Liu" %}
+        <strong>{{ post.author }}</strong>
+      {% else %}
+        {{ post.author }}
+      {% endif %}
     {% endif %}
     
     {% if post.read_time %}
