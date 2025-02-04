@@ -19,7 +19,7 @@ Education Background
 ======
 - North Carolina State University (NCSU), Aug. 2023 ~ Now  
   Ph.D. in Computer Science  
-  Advisor: [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html)  
+  Advisor: [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm)  
 - Renmin University of China (RUC), Sep. 2019 ~ June 2023  
   B.E. in Computer Science  
   Advisor: [Feng Zhang](https://fengzhangcs.github.io/)
