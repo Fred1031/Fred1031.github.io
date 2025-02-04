@@ -18,13 +18,13 @@ Email Address: [jliu93@ncsu.edu](mailto:jliu93@ncsu.edu)
 Education Background
 ======
 - North Carolina State University (NCSU), Aug. 2023 ~ Now  
-  Ph.D. in Computer Science
-  Advisor: Dr. Xipeng Shen
+  Ph.D. in Computer Science  
+  Advisor: [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html)  
+- Renmin University of China (RUC), Sep. 2019 ~ June 2023  
+  B.E. in Computer Science  
+  Advisor: [Feng Zhang](https://fengzhangcs.github.io/)
 - University of British Columbia (UBC), Jan. 2022 ~ Apr. 2022  
   Exchanged to Faculty of Science
-- Renmin University of China (RUC), Sep. 2019 ~ June 2023  
-  B.E. in Computer Science
-  Advisor: Dr. Feng Zhang
   
 Publication
 ======
