@@ -1,7 +1,7 @@
 ---
 title: "[ASPLOS’25] Generalized Reuse Patterns: Unlocking the Potential of Reuse for DNN Accelerations on Microcontrollers"  
 authors: 
-  - Jiesong Liu
+  - **Jiesong Liu**
   - Bin Ren
   - Xipeng Shen
 collection: publications
