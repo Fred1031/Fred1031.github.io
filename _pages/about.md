@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.html). My research interests are in AI optimizations.
+My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). My research interests are in AI optimizations.
 
 Email Address: [jliu93@ncsu.edu](mailto:jliu93@ncsu.edu)
 
@@ -19,10 +19,10 @@ Education Background
 ======
 - North Carolina State University (NCSU), Aug. 2023 ~ Now  
   Ph.D. in Computer Science  
-  Advisor: [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm)  
+  Advisor: Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm)  
 - Renmin University of China (RUC), Sep. 2019 ~ June 2023  
   B.E. in Computer Science  
-  Advisor: [Feng Zhang](https://fengzhangcs.github.io/)
+  Advisor: Dr. [Feng Zhang](https://fengzhangcs.github.io/)
 - University of British Columbia (UBC), Jan. 2022 ~ Apr. 2022  
   Exchanged to Faculty of Science
   
