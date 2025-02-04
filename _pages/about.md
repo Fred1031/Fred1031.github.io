@@ -30,20 +30,20 @@ Selected Publication
 ======
 **[ASPLOS’25 (Conditionally Accepted)]** “Generalized Reuse Patterns: Unlocking the Potential of Reuse for DNN Accelerations on Microcontrollers”;  
 **Jiesong Liu**, Bin Ren, Xipeng Shen.  
-30th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025. \[[Paper](http://fred1031.github.io/files/ASPLOS2023.pdf)\]
+30th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025.
 
 **[NeurIPS’24]**``UQ-guided Hyperparameter Optimization for Iterative Learners”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Xipeng Shen;  
-38th Conference on Neural Information Processing Systems (NeurIPS), 2024. \[[Paper](http://fred1031.github.io/files/NeurIPS2024.pdf)\]
+38th Conference on Neural Information Processing Systems (NeurIPS), 2024. \[[Paper](http://fred1031.github.io/files/2024_neruips.pdf)\]
 
 **[TPDS’24]** ``G-Learned Index: Enabling Efficient Learned index on GPU”;  
 **Jiesong Liu**, Feng Zhang, Lv Lu, Xiaoyong Du, Guoliang Li and Dong Deng;
-IEEE Transactions on Parallel and Distributed Systems (TPDS), 2022. \[[Paper](http://fred1031.github.io/files/TPDS-2024.pdf)\]
+IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024. \[[Paper](http://fred1031.github.io/files/2024_tpds.pdf)\]
 
 **[ASPLOS’23]**``Space Efficient TREC for Enabling Deep Learning on Microcontrollers”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen;  
-28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](http://fred1031.github.io/files/ASPLOS2023.pdf)\]
+28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. \[[Paper](http://fred1031.github.io/files/2023_asplos.pdf)\]
 
 **[NeurIPS’22]** ``TREC: Transient Redundancy Elimination-based Convolution”;  
 Jiawei Guan, Feng Zhang, **Jiesong Liu**, Hsing-Hsuan Sung, Ruofan Wu, Xiaoyong Du, Xipeng Shen;  
-36th Conference on Neural Information Processing Systems (NeurIPS), 2022 \[[Paper](http://fred1031.github.io/files/NeurIPS2022.pdf)\]
+36th Conference on Neural Information Processing Systems (NeurIPS), 2022 \[[Paper](http://fred1031.github.io/files/2022_neurips.pdf)\]
