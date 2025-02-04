@@ -17,12 +17,15 @@ Email Address: [jliu93@ncsu.edu](mailto:jliu93@ncsu.edu)
 
 Education Background
 ======
-1. Sep. 2019 ~ June 2023: B.S. in School of Information, Renmin University of China.  
-
-1. Jan. 2022 ~ Apr. 2022: Exchanged to Faculty of Science, University of British Columbia.
-
-1. Aug. 2023 ~ Now: Ph.D. in Computer Science at North Carolina State University.
-
+- North Carolina State University (NCSU), Aug. 2023 ~ Now  
+  Ph.D. in Computer Science
+  Advisor: Dr. Xipeng Shen
+- University of British Columbia (UBC), Jan. 2022 ~ Apr. 2022  
+  Exchanged to Faculty of Science
+- Renmin University of China (RUC), Sep. 2019 ~ June 2023  
+  B.E. in Computer Science
+  Advisor: Dr. Feng Zhang
+  
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
