@@ -3,7 +3,7 @@ title: "Space Efficient TREC for Enabling Deep Learning on Microcontrollers"
 authors: "Jiesong Liu, Feng Zhang, Jiawei Guan, Hsing-Hsuan Sung, Xiaoyong Du, Xipeng Shen"
 conference: "ASPLOS’23"
 year: 2023
-category: "conference"
+category: "conferences"
 paper_url: ""
 code_url: ""
 slides_url: ""
