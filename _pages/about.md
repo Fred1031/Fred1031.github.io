@@ -34,7 +34,7 @@ Selected Publication
 
 **[NeurIPS’24]**``UQ-guided Hyperparameter Optimization for Iterative Learners”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Xipeng Shen;  
-38th Conference on Neural Information Processing Systems (NeurIPS), 2024. \[[Paper](http://fred1031.github.io/files/2024_neruips.pdf)\]
+38th Conference on Neural Information Processing Systems (NeurIPS), 2024. \[[Paper](http://fred1031.github.io/files/2024_neurips.pdf)\]
 
 **[TPDS’24]** ``G-Learned Index: Enabling Efficient Learned index on GPU”;  
 **Jiesong Liu**, Feng Zhang, Lv Lu, Xiaoyong Du, Guoliang Li and Dong Deng;
