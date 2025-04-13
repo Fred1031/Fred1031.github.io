@@ -28,9 +28,9 @@ Education Background
   
 Selected Publication
 ======
-**[ASPLOS’25 (Conditionally Accepted)]** “Generalized Reuse Patterns: Unlocking the Potential of Reuse for DNN Accelerations on Microcontrollers”;  
+**[ASPLOS’25]** “Generalizing Reuse Patterns for Efficient DNN on Microcontrollers”;  
 **Jiesong Liu**, Bin Ren, Xipeng Shen.  
-30th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025.
+30th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025. \[[Paper](http://fred1031.github.io/files/2025_asplos.pdf)\]
 
 **[NeurIPS’24]**``UQ-guided Hyperparameter Optimization for Iterative Learners”;  
 **Jiesong Liu**, Feng Zhang, Jiawei Guan, Xipeng Shen;  
