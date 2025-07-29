@@ -28,6 +28,10 @@ Education Background
   
 Selected Publication
 ======
+**[ACL’25]** “A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models”;  
+**Jiesong Liu**, Brian Park, Xipeng Shen.  
+ 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. \[[Paper](https://aclanthology.org/2025.acl-long.482.pdf)\]
+
 **[ASPLOS’25]** “Generalizing Reuse Patterns for Efficient DNN on Microcontrollers”;  
 **Jiesong Liu**, Bin Ren, Xipeng Shen.  
 30th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2025. \[[Paper](http://fred1031.github.io/files/2025_asplos.pdf)\]
