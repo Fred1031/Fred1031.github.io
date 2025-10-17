@@ -28,9 +28,13 @@ Education Background
   
 Selected Publication
 ======
+**[NeurIPS’25]** “Fourier Token Merging: Understanding and Capitalizing Frequency Domain for Efficient Image Generation”;  
+**Jiesong Liu**, Xipeng Shen.  
+39th Conference on Neural Information Processing Systems (NeurIPS), 2025. 
+
 **[ACL’25]** “A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models”;  
 **Jiesong Liu**, Brian Park, Xipeng Shen.  
- 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. \[[Paper](https://aclanthology.org/2025.acl-long.482.pdf)\]
+63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. \[[Paper](https://aclanthology.org/2025.acl-long.482.pdf)\]
 
 **[ASPLOS’25]** “Generalizing Reuse Patterns for Efficient DNN on Microcontrollers”;  
 **Jiesong Liu**, Bin Ren, Xipeng Shen.  
