@@ -30,7 +30,7 @@ Selected Publication
 ======
 **[NeurIPS’25]** “Fourier Token Merging: Understanding and Capitalizing Frequency Domain for Efficient Image Generation”;  
 **Jiesong Liu**, Xipeng Shen.  
-39th Conference on Neural Information Processing Systems (NeurIPS), 2025. 
+39th Conference on Neural Information Processing Systems (NeurIPS), 2025. \[[Paper](http://fred1031.github.io/files/2025_neurips.pdf)\]
 
 **[ACL’25]** “A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models”;  
 **Jiesong Liu**, Brian Park, Xipeng Shen.  
