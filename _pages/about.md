@@ -8,24 +8,38 @@ redirect_from:
 ---
 
 
-My name is Jiesong Liu. I am a Ph.D. student at North Carolina State University, working with Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm). My research interests are in AI optimizations.
+My name is Jiesong Liu. I am a Ph.D. student in Electrical and Computer Engineering at Purdue University, advised by Dr. [Xipeng Shen](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=330650). Before Purdue, I was a Ph.D. student in Computer Science at North Carolina State University, where I received my M.S. in 2026.
 
-Email Address: [jliu93@ncsu.edu](mailto:jliu93@ncsu.edu)
+I work on making AI run efficiently and correctly on real hardware. My current interests are compiler and runtime optimization for ML, system-level optimization for LLM inference and workflows, the correctness of AI-assisted code optimization, and agentic LLM systems.
+
+Email: [liu4833@purdue.edu](mailto:liu4833@purdue.edu)
 
 
 
 
 Education Background
 ======
-- North Carolina State University (NCSU), Aug. 2023 ~ Now  
-  Ph.D. in Computer Science  
-  Advisor: Dr. [Xipeng Shen](https://research.csc.ncsu.edu/picture/xshen5/index.htm)  
+- Purdue University, Aug. 2026 ~ Now  
+  Ph.D. in Electrical and Computer Engineering  
+  Advisor: Dr. [Xipeng Shen](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=330650)  
+- North Carolina State University (NCSU), Aug. 2023 ~ Aug. 2026  
+  Ph.D. student in Computer Science; M.S. conferred May 2026  
+  Advisor: Dr. Xipeng Shen  
 - Renmin University of China (RUC), Sep. 2019 ~ June 2023  
   B.E. in Computer Science  
   Advisor: Dr. [Feng Zhang](https://fengzhangcs.github.io/)
 - University of British Columbia (UBC), Jan. 2022 ~ Apr. 2022  
   Exchanged to Faculty of Science
-  
+
+Research Experience
+======
+- Nokia Bell Labs, Murray Hill, NJ, June 2026 ~ Aug. 2026  
+  Research Intern  
+  Bayesian + LLM control for deciding where AI inference requests run across devices and edge clouds.
+- Google DeepMind, Mountain View, CA, May 2025 ~ Dec. 2025  
+  Student Researcher  
+  Personalizing LLMs (Gemma) with interpretable user embeddings.
+
 Selected Publication
 ======
 **[NeurIPS’25]** “Fourier Token Merging: Understanding and Capitalizing Frequency Domain for Efficient Image Generation”;  
@@ -55,3 +69,20 @@ IEEE Transactions on Parallel and Distributed Systems (TPDS), 2024. \[[Paper](ht
 **[NeurIPS’22]** ``TREC: Transient Redundancy Elimination-based Convolution”;  
 Jiawei Guan, Feng Zhang, **Jiesong Liu**, Hsing-Hsuan Sung, Ruofan Wu, Xiaoyong Du, Xipeng Shen;  
 36th Conference on Neural Information Processing Systems (NeurIPS), 2022 \[[Paper](http://fred1031.github.io/files/2022_neurips.pdf)\]
+
+
+Service
+======
+- Conference reviewer: NeurIPS (2025, 2026), ICLR (2026)
+- Journal reviewer: IEEE Transactions on Parallel and Distributed Systems (TPDS); IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)
+- External reviewer: MICRO 2026
+- Teaching Assistant: Compiler Optimization and Software Development courses, NCSU
+
+Honors
+======
+- NCSU Travel Award, 2024
+- NCSU University Graduate Fellowship, 2023
+- NCSU Graduate Merit Award, 2023
+- SenseTime Scholarship, 2022 (30 students selected nationwide)
+- National Scholarship of China, 2020 and 2021
+- National Olympiad in Informatics (NOI), 2018
